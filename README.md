@@ -41,14 +41,4 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaddy29&show_icons=true&locale=en&layout=compact" alt="iaddy29" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaddy29&show_icons=true&locale=en" alt="iaddy29" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaddy29&" alt="iaddy29" />
-</p>
