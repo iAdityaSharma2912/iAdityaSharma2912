@@ -5,12 +5,12 @@
 <h3 align="center">Breaking the boundaries of what's possible with code.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iaddy29&label=Profile%20views&color=0e75b6&style=flat" alt="iaddy29" />
+  <img src="https://komarev.com/ghpvc/?username=iAdityaSharma2912&label=Profile%20views&color=0e75b6&style=flat" alt="iAdityaSharma2912" />
 </p>
 
 <p align="left"> 
   <a href="https://twitter.com/iaddy29" target="blank">
-    <img src="https://img.shields.io/twitter/follow/iaddy29?logo=twitter&style=for-the-badge" alt="iaddy29" />
+    <img src="https://img.shields.io/twitter/follow/iAdityaSharma2912?logo=twitter&style=for-the-badge" alt="iAdityaSharma2912" />
   </a> 
 </p>
 
