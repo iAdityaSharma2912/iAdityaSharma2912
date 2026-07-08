@@ -1,80 +1,219 @@
 # 👋 Hi, I'm Aditya Sharma
-<p align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a3d0d69916383.5b940de056028.gif" width="700"/>
-</p>
-<h3 align="center">🚀 Building cool things with code</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Full+Stack+Developer;Python+Automation+Builder;React+%7C+Node+Developer;Building+Projects+Every+Week" />
-</p>
----
-# 👨‍💻 About Me
-- 🎓 Engineer
-- 💻 Passionate about **Full Stack Development**
-- ⚡ Love building **automation tools & AI apps**
-- 🧠 Learning something new every day
-- 🚀 Building projects publicly
----
-# 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/iaddy29/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/iaddy29">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/iaddy29">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
----
-# 🧠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,java,cpp,c,mysql,git,github,vscode" />
-</p>
----
-# 🚀 Featured Projects
-| Project | Description |
-|------|-------------|
-| **Serene AI** | AI Therapy Dashboard built with React |
-| **StatBot Pro** | Data analysis & visualization tool |
-| **Lemy Planner** | Productivity & day planner web app |
-| **Krazy Notesy** | Social media automation tool |
-| **BillSnap** | Desktop ERP for billing & innovice |
-| **FlashSnap** | Study analytics platform |
 
----
-# 📊 GitHub Analytics
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iAdityaSharma2912&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdityaSharma2912&layout=compact&theme=tokyonight"/>
-</p>
----
-# 🔥 GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSharma2912&theme=tokyonight"/>
-</p>
----
-# 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
----
-# 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iAdityaSharma2912&theme=tokyo-night"/>
-</p>
----
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iAdityaSharma2912&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
----
-# 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=iAdityaSharma2912&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
----
-<p align="center">
-⭐️ If you like my work, consider giving a star to my repositories!
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a3d0d69916383.5b940de056028.gif" width="700" alt="Developer Banner"/>
 </p>
 
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • AI & Automation Builder
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Products+That+Solve+Real+Problems;Full-Stack+Web+Development;AI+%26+Automation+Applications;Python+%7C+React+%7C+Node.js;Learning.+Building.+Shipping."
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iaddy29/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/iaddy29">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/iaddy29">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const aditya = {
+  role: "Software Engineer",
+  focus: [
+    "Full-Stack Development",
+    "AI Applications",
+    "Python Automation",
+    "Product Engineering"
+  ],
+
+  technologies: {
+    frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
+    databases: ["SQL", "Firebase", "Supabase"],
+    languages: ["Python", "JavaScript", "Java", "C++", "C"],
+    tools: ["Git", "GitHub", "Docker", "VS Code"]
+  },
+
+  currentlyBuilding: "Products that solve real-world problems",
+
+  philosophy: "Learn → Build → Ship → Improve"
+};
+```
+
+* 🚀 I build **full-stack products, AI-powered applications, and automation tools**
+* 🧠 Interested in **Software Engineering, Artificial Intelligence, SaaS, and Developer Tools**
+* 🛠️ I enjoy turning ideas into **working products and prototypes**
+* 📈 Continuously improving my **problem-solving, system design, and engineering skills**
+* 🌱 Exploring better ways to build **scalable, reliable, and useful software**
+* 🤝 Open to **software engineering opportunities, internships, and collaborations**
+
+---
+
+## 🛠️ Tech Stack
+
+<h4 align="center">Languages • Frameworks • Databases • Tools</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,react,nextjs,nodejs,express,fastapi,mysql,firebase,supabase,docker,git,github,vscode&perline=9" alt="Technology Stack"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Serene AI
+
+**AI-powered mental wellness dashboard**
+
+A modern application focused on AI-assisted conversations, mood tracking, analytics, and an intuitive dashboard experience.
+
+**Tech:** React • AI APIs • Modern UI
+
+</td>
+<td width="50%">
+
+### 📊 StatBot Pro
+
+**Autonomous AI Data Analyst**
+
+Upload datasets, analyze messy CSV files, generate Python code, execute analysis, and create data visualizations using AI agents.
+
+**Tech:** Python • Pandas • Matplotlib • AI Agents
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📅 Lemy Planner
+
+**Productivity & Daily Planning Platform**
+
+A productivity-focused web application designed for managing daily tasks, schedules, priorities, and personal workflows.
+
+**Tech:** React • JavaScript • Modern Web Stack
+
+</td>
+<td width="50%">
+
+### 🚀 Krazy Notesy
+
+**AI Social Media Automation Platform**
+
+Create content once and distribute it across multiple social platforms with AI-generated captions, scheduling, automation, and analytics.
+
+**Tech:** Next.js • Node.js • Firebase • AI APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧾 BillSnap
+
+**Desktop Billing & ERP Application**
+
+A desktop business application for invoice generation, inventory management, customer records, reporting, and business workflows.
+
+**Tech:** Python • Desktop Application • SQL
+
+</td>
+<td width="50%">
+
+### 🎓 FlashSnap
+
+**AI-Powered Study Platform**
+
+Transform study materials into flashcards and structured learning experiences with intelligent study analytics and spaced repetition.
+
+**Tech:** AI • Full-Stack Development • Learning Analytics
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=iAdityaSharma2912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdityaSharma2912&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSharma2912&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iAdityaSharma2912&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iAdityaSharma2912&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in building useful software, collaborating on ambitious projects, and exploring opportunities in **Software Engineering, Full-Stack Development, AI Applications, and Automation Engineering**.
+
+If you're working on something interesting, feel free to connect with me.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iaddy29/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iAdityaSharma2912&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<h3 align="center">
+  ⚡ Ideas are easy. Building is the hard part. Keep shipping.
+</h3>
+
+<p align="center">
+  ⭐ Explore my repositories and star the projects you find useful.
+</p>
