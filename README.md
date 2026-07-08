@@ -196,13 +196,6 @@ Transform study materials into flashcards and structured learning experiences wi
 </p>
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iAdityaSharma2912&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
