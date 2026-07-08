@@ -172,28 +172,6 @@ Transform study materials into flashcards and structured learning experiences wi
     alt="GitHub Contribution Activity Graph"
   />
 </p>
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
-<br>
 
 ---
 
