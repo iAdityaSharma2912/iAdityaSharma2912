@@ -179,9 +179,21 @@ Transform study materials into flashcards and structured learning experiences wi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
-
 ---
 
 ## 🏆 GitHub Achievements
