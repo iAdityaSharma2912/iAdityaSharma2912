@@ -174,14 +174,6 @@ Transform study materials into flashcards and structured learning experiences wi
 </p>
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iAdityaSharma2912&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
