@@ -159,26 +159,19 @@ Transform study materials into flashcards and structured learning experiences wi
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=iAdityaSharma2912&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Aditya's GitHub Statistics"
-  />
-
-  <img
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdityaSharma2912&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Aditya's Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     width="60%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSharma2912&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
 
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iAdityaSharma2912&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
 ---
 
 ## 📈 Contribution Activity
