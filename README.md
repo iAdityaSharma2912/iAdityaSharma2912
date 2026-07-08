@@ -192,6 +192,9 @@ Transform study materials into flashcards and structured learning experiences wi
     />
   </picture>
 </p>
+
+<br>
+
 ---
 
 
