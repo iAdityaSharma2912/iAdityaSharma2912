@@ -33,21 +33,25 @@
 
 ```javascript
 const aditya = {
-  role: "Software Engineer @ Protective Collar AI Technology",
+  role: "B.Tech CSE '26 • Python Developer Intern @ Infotact Solution",
   location: "Delhi, India",
   focus: [
     "Full-Stack Development",
     "Algorithmic Trading Infrastructure",
     "Desktop / Offline-first Apps",
-    "Data Analysis & Automation"
+    "Automation & AI-integrated tools"
+  ],
+
+  experience: [
+    "Python Developer Intern, Infotact Solution — Nov 2025 to Feb 2026",
+    "Trainee, HCL Tech Industry Programme — Dec 2024 to Mar 2025"
   ],
 
   technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
-    databases: ["PostgreSQL", "SQLite", "MongoDB", "Firebase", "Supabase"],
-    languages: ["Python", "TypeScript", "JavaScript", "Java", "C++", "C"],
-    tools: ["Git", "GitHub", "Docker", "Tauri", "VS Code"]
+    languages: ["Python", "JavaScript", "TypeScript", "C/C++", "SQL"],
+    frameworks: ["React", "Next.js", "FastAPI", "Django", "HTML", "CSS", "Pandas", "OpenPyXL"],
+    tools: ["Git", "GitHub", "Firebase", "Linux", "Vercel", "Tauri"],
+    concepts: ["Data Structures & Algorithms", "OOP", "REST APIs", "Automation", "ML Basics"]
   },
 
   currentlyBuilding: "Signal generation, backtesting & execution systems (Brain 17)",
@@ -56,11 +60,11 @@ const aditya = {
 };
 ```
 
-* 🚀 Building **full-stack products, trading infrastructure, and automation tools**
-* 📈 Working on **algorithmic trading systems** — signal generation, backtesting, execution (Brain 17)
+* 🚀 Building **full-stack products, desktop ERPs, and AI-integrated automation tools**
+* 💼 Python Developer Intern @ **Infotact Solution**, trained under **HCL Tech's Industry Programme**
 * 🧠 Interested in **Data Analysis, System Design, and Developer Tools**
 * 🎯 Open to **Data Analyst** and **Full-Stack Developer** roles
-* 🌱 B.Tech CSE 2026 grad, continuously improving problem-solving and engineering skills
+* 🌱 B.Tech CSE 2026 grad (KCC ITM, Lucknow)
 * 🤝 Open to opportunities, internships, and collaborations
 
 ---
@@ -70,7 +74,7 @@ const aditya = {
 <h4 align="center">Languages • Frameworks • Databases • Tools</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,react,nextjs,nodejs,express,fastapi,postgres,mysql,mongodb,firebase,docker,git,github,vscode&perline=9" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,react,nextjs,django,fastapi,mysql,firebase,git,github,vscode,vercel&perline=8" alt="Technology Stack"/>
 </p>
 
 ---
@@ -81,78 +85,61 @@ const aditya = {
 <tr>
 <td width="50%">
 
-### 📈 Brain 17
-
-**Algorithmic Trading Infrastructure**
-
-Signal generation, backtesting, and execution systems for NSE equities. KiteConnect + MongoDB data pipeline with BullMQ job scheduling aligned to market hours.
-
-**Tech:** Python • Node.js • MongoDB • BullMQ • KiteConnect
-
-</td>
-<td width="50%">
-
 ### 🧾 BillSnap
+**Desktop ERP for Billing & Inventory** · *Jun–Jul 2026*
 
-**Offline-First Desktop ERP**
+Offline-first desktop ERP with automated invoice generation (SA-YYYYMMDD-001 format), real-time stock deduction, and UPI/bank details on printed invoices. REST API backend with 15+ endpoints across 4 modules, full test coverage (9/9 passing), transactional invoice flow across 6 relational tables. Responsive React frontend with company-wise data segregation, live KPI dashboard, and Tally ERP Excel import for offline sync.
 
-Built for real businesses (Sharma Agency, Sharma Electricals). Invoice PDF generation, ZIP backup/restore, per-company inventory isolation. Migrated from FastAPI/React to a native Tauri + PyInstaller sidecar build for Windows.
-
-**Tech:** Python • FastAPI • React • Tauri • SQLite
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧑‍💼 VISL
-
-**AI-Powered Candidate Screening Platform**
-
-FastAPI + React/Vite/Tailwind app deployed on Render and Vercel, with Google Calendar OAuth scheduling integration.
-
-**Tech:** FastAPI • React • Vite • Tailwind • Gemini API
-
-</td>
-<td width="50%">
-
-### 💎 Jewelry E-Commerce + CMS
-
-**Storefront with Integrated Admin CMS**
-
-Full-stack jewelry e-commerce platform with a custom admin panel for product and order management.
-
-**Tech:** Next.js • Full-Stack Architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 SIP/SWP Calculators
-
-**Indian-Market Investment Tools**
-
-Custom SWP/SIP calculators with crore/lakh number formatting, comparing flat vs. step-up SIP strategies over long horizons.
-
-**Tech:** JavaScript • HTML • Financial Modeling
+**Tech:** Python • FastAPI • React • TypeScript • SQLite • Tauri
 
 </td>
 <td width="50%">
 
 ### 🎓 FlashSnap
+**AI Study Analytics Platform** · *Feb–May 2026*
 
-**AI-Powered Study Platform**
+PDF-to-structured-data pipeline using GPT-4o processing 50-page documents in under 12 seconds with auto-categorized content. SM-2 spaced-repetition algorithm backed by PostgreSQL tracking per-user performance, cutting estimated review time by 40% vs. linear study. Secure multi-user auth with NextAuth.js, normalised Prisma ORM schema, deployed on Vercel with CI/CD.
 
-Transforms study materials into flashcards with spaced-repetition and study analytics.
+**Tech:** Next.js 15 • TypeScript • PostgreSQL • Prisma • GPT-4o • NextAuth.js
 
-**Tech:** AI • Full-Stack Development
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 Krazy Notesy
+**Content Automation & Engagement Analytics** · *Jul–Aug 2025*
+
+A/B evaluation across 40 post pairs comparing GPT-generated vs. manual captions, showing 3x higher predicted engagement for AI-generated content. End-to-end content generation and scheduling automated with Python and browser automation, replacing a manual multi-step posting workflow. Lightweight engagement-tracking scripts feeding results back into the caption A/B loop.
+
+**Tech:** Python • OpenAI API • Browser Automation • JavaScript
+
+📁 [krazy-notesy1](https://github.com/iAdityaSharma2912/krazy-notesy1)
+
+</td>
+<td width="50%">
+
+### 📅 Lemy
+**Productivity & Daily Planning Platform**
+
+Web app for managing daily tasks, schedules, priorities, and personal workflows.
+
+**Tech:** JavaScript
+
+📁 [Lemy](https://github.com/iAdityaSharma2912/Lemy)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📌 Other Repos
+
+- 🌐 [aditya-portfolio](https://github.com/iAdityaSharma2912/aditya-portfolio) — personal portfolio site (TypeScript)
+- 📊 [sheetsnap](https://github.com/iAdityaSharma2912/sheetsnap) — spreadsheet/data utility (JavaScript)
+- 🔍 [spyner](https://github.com/iAdityaSharma2912/spyner)
 
 ---
 
