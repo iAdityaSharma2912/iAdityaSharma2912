@@ -5,12 +5,12 @@
 </p>
 
 <h3 align="center">
-  Software Engineer • Full-Stack Developer • AI & Automation Builder
+  Software Engineer • Full-Stack Developer • Trading Systems & Automation Builder
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Products+That+Solve+Real+Problems;Full-Stack+Web+Development;AI+%26+Automation+Applications;Python+%7C+React+%7C+Node.js;Learning.+Building.+Shipping."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Products+That+Solve+Real+Problems;Full-Stack+Web+%26+Desktop+Development;Algorithmic+Trading+%26+Automation;Python+%7C+React+%7C+FastAPI+%7C+Node.js;Learning.+Building.+Shipping."
     alt="Typing SVG"
   />
 </p>
@@ -33,34 +33,35 @@
 
 ```javascript
 const aditya = {
-  role: "Software Engineer",
+  role: "Software Engineer @ Protective Collar AI Technology",
+  location: "Delhi, India",
   focus: [
     "Full-Stack Development",
-    "AI Applications",
-    "Python Automation",
-    "Product Engineering"
+    "Algorithmic Trading Infrastructure",
+    "Desktop / Offline-first Apps",
+    "Data Analysis & Automation"
   ],
 
   technologies: {
-    frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+    frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
-    databases: ["SQL", "Firebase", "Supabase"],
-    languages: ["Python", "JavaScript", "Java", "C++", "C"],
-    tools: ["Git", "GitHub", "Docker", "VS Code"]
+    databases: ["PostgreSQL", "SQLite", "MongoDB", "Firebase", "Supabase"],
+    languages: ["Python", "TypeScript", "JavaScript", "Java", "C++", "C"],
+    tools: ["Git", "GitHub", "Docker", "Tauri", "VS Code"]
   },
 
-  currentlyBuilding: "Products that solve real-world problems",
+  currentlyBuilding: "Signal generation, backtesting & execution systems (Brain 17)",
 
   philosophy: "Learn → Build → Ship → Improve"
 };
 ```
 
-* 🚀 I build **full-stack products, AI-powered applications, and automation tools**
-* 🧠 Interested in **Software Engineering, Artificial Intelligence, SaaS, and Developer Tools**
-* 🛠️ I enjoy turning ideas into **working products and prototypes**
-* 📈 Continuously improving my **problem-solving, system design, and engineering skills**
-* 🌱 Exploring better ways to build **scalable, reliable, and useful software**
-* 🤝 Open to **software engineering opportunities, internships, and collaborations**
+* 🚀 Building **full-stack products, trading infrastructure, and automation tools**
+* 📈 Working on **algorithmic trading systems** — signal generation, backtesting, execution (Brain 17)
+* 🧠 Interested in **Data Analysis, System Design, and Developer Tools**
+* 🎯 Open to **Data Analyst** and **Full-Stack Developer** roles
+* 🌱 B.Tech CSE 2026 grad, continuously improving problem-solving and engineering skills
+* 🤝 Open to opportunities, internships, and collaborations
 
 ---
 
@@ -69,7 +70,7 @@ const aditya = {
 <h4 align="center">Languages • Frameworks • Databases • Tools</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,react,nextjs,nodejs,express,fastapi,mysql,firebase,supabase,docker,git,github,vscode&perline=9" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,react,nextjs,nodejs,express,fastapi,postgres,mysql,mongodb,firebase,docker,git,github,vscode&perline=9" alt="Technology Stack"/>
 </p>
 
 ---
@@ -80,63 +81,63 @@ const aditya = {
 <tr>
 <td width="50%">
 
-### 🧠 Serene AI
+### 📈 Brain 17
 
-**AI-powered mental wellness dashboard**
+**Algorithmic Trading Infrastructure**
 
-A modern application focused on AI-assisted conversations, mood tracking, analytics, and an intuitive dashboard experience.
+Signal generation, backtesting, and execution systems for NSE equities. KiteConnect + MongoDB data pipeline with BullMQ job scheduling aligned to market hours.
 
-**Tech:** React • AI APIs • Modern UI
-
-</td>
-<td width="50%">
-
-### 📊 StatBot Pro
-
-**Autonomous AI Data Analyst**
-
-Upload datasets, analyze messy CSV files, generate Python code, execute analysis, and create data visualizations using AI agents.
-
-**Tech:** Python • Pandas • Matplotlib • AI Agents
+**Tech:** Python • Node.js • MongoDB • BullMQ • KiteConnect
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📅 Lemy Planner
-
-**Productivity & Daily Planning Platform**
-
-A productivity-focused web application designed for managing daily tasks, schedules, priorities, and personal workflows.
-
-**Tech:** React • JavaScript • Modern Web Stack
-
-</td>
-<td width="50%">
-
-### 🚀 Krazy Notesy
-
-**AI Social Media Automation Platform**
-
-Create content once and distribute it across multiple social platforms with AI-generated captions, scheduling, automation, and analytics.
-
-**Tech:** Next.js • Node.js • Firebase • AI APIs
-
-</td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🧾 BillSnap
 
-**Desktop Billing & ERP Application**
+**Offline-First Desktop ERP**
 
-A desktop business application for invoice generation, inventory management, customer records, reporting, and business workflows.
+Built for real businesses (Sharma Agency, Sharma Electricals). Invoice PDF generation, ZIP backup/restore, per-company inventory isolation. Migrated from FastAPI/React to a native Tauri + PyInstaller sidecar build for Windows.
 
-**Tech:** Python • Desktop Application • SQL
+**Tech:** Python • FastAPI • React • Tauri • SQLite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧑‍💼 VISL
+
+**AI-Powered Candidate Screening Platform**
+
+FastAPI + React/Vite/Tailwind app deployed on Render and Vercel, with Google Calendar OAuth scheduling integration.
+
+**Tech:** FastAPI • React • Vite • Tailwind • Gemini API
+
+</td>
+<td width="50%">
+
+### 💎 Jewelry E-Commerce + CMS
+
+**Storefront with Integrated Admin CMS**
+
+Full-stack jewelry e-commerce platform with a custom admin panel for product and order management.
+
+**Tech:** Next.js • Full-Stack Architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 SIP/SWP Calculators
+
+**Indian-Market Investment Tools**
+
+Custom SWP/SIP calculators with crore/lakh number formatting, comparing flat vs. step-up SIP strategies over long horizons.
+
+**Tech:** JavaScript • HTML • Financial Modeling
 
 </td>
 <td width="50%">
@@ -145,9 +146,9 @@ A desktop business application for invoice generation, inventory management, cus
 
 **AI-Powered Study Platform**
 
-Transform study materials into flashcards and structured learning experiences with intelligent study analytics and spaced repetition.
+Transforms study materials into flashcards with spaced-repetition and study analytics.
 
-**Tech:** AI • Full-Stack Development • Learning Analytics
+**Tech:** AI • Full-Stack Development
 
 </td>
 </tr>
@@ -175,10 +176,9 @@ Transform study materials into flashcards and structured learning experiences wi
 
 ---
 
-
 ## 🤝 Let's Connect
 
-I'm interested in building useful software, collaborating on ambitious projects, and exploring opportunities in **Software Engineering, Full-Stack Development, AI Applications, and Automation Engineering**.
+I'm interested in building useful software, collaborating on ambitious projects, and exploring **Data Analyst** and **Full-Stack Developer** roles.
 
 If you're working on something interesting, feel free to connect with me.
 
