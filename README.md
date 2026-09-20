@@ -1,17 +1,18 @@
-<!-- HEADER: animated wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Aditya%20Sharma&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%7C%20Full-Stack%20Builder%20%7C%20Trading%20Systems&descSize=20&descAlignY=60" width="100%" alt="Header"/>
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Turning+Data+into+Decisions;Business+%26+Data+Analyst+%7C+Technical+BA;Full-Stack+Web+%26+Desktop+Development;Algorithmic+Trading+%26+Automation;Python+%7C+SQL+%7C+FastAPI+%7C+React;Learning.+Building.+Shipping." alt="Typing SVG"/>
-</p>
+# 👋 Hi, I'm Aditya Sharma
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-BA%20%7C%20DA%20%7C%20Technical%20BA-00C853?style=for-the-badge" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-2026-blueviolet?style=for-the-badge" alt="B.Tech"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a3d0d69916383.5b940de056028.gif" width="700" alt="Developer Banner"/>
+</p>
+
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • Trading Systems & Automation Builder
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Products+That+Solve+Real+Problems;Full-Stack+Web+%26+Desktop+Development;Algorithmic+Trading+%26+Automation;Python+%7C+React+%7C+FastAPI+%7C+Node.js;Learning.+Building.+Shipping."
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -32,10 +33,9 @@
 
 ```javascript
 const aditya = {
-  role: "B.Tech CSE '26 | Data & Business Analyst | Full-Stack Developer",
+  role: "B.Tech CSE '26 • Python Developer Intern @ Infotact Solution",
   location: "Delhi, India",
   focus: [
-    "Data Analysis & Business Analysis",
     "Full-Stack Development",
     "Algorithmic Trading Infrastructure",
     "Desktop / Offline-first Apps",
@@ -49,37 +49,32 @@ const aditya = {
 
   technologies: {
     languages: ["Python", "JavaScript", "TypeScript", "C/C++", "SQL"],
-    frameworks: ["React", "Next.js", "FastAPI", "Django", "Node.js", "Pandas", "OpenPyXL"],
-    databases: ["SQLite", "PostgreSQL", "MySQL", "Firebase"],
-    tools: ["Git", "GitHub", "Linux", "Vercel", "Tauri", "Excel"],
-    concepts: ["DSA", "OOP", "REST APIs", "Automation", "Backtesting", "ML Basics"]
+    frameworks: ["React", "Next.js", "FastAPI", "Django", "HTML", "CSS", "Pandas", "OpenPyXL"],
+    tools: ["Git", "GitHub", "Firebase", "Linux", "Vercel", "Tauri"],
+    concepts: ["Data Structures & Algorithms", "OOP", "REST APIs", "Automation", "ML Basics"]
   },
 
   currentlyBuilding: "Signal generation, backtesting & execution systems (Brain 17)",
-  lookingFor: ["Business Analyst", "Data Analyst", "Technical Business Analyst"],
+
   philosophy: "Learn → Build → Ship → Improve"
 };
 ```
 
-- 📊 Analyzing data, building dashboards, and translating business needs into working software
-- 🚀 Building **full-stack products, desktop ERPs, and AI-integrated automation tools**
-- 📈 Building algorithmic trading infrastructure for NSE equities
-- 🌱 B.Tech CSE 2026 grad (KCC ITM, Lucknow)
-- 🤝 Open to full-time roles, internships, and collaborations
+* 🚀 Building **full-stack products, desktop ERPs, and AI-integrated automation tools**
+* 💼 Python Developer Intern @ **Infotact Solution**, trained under **HCL Tech's Industry Programme**
+* 🧠 Interested in **Data Analysis, System Design, and Developer Tools**
+* 🎯 Open to **Data Analyst** and **Full-Stack Developer** roles
+* 🌱 B.Tech CSE 2026 grad (KCC ITM, Lucknow)
+* 🤝 Open to opportunities, internships, and collaborations
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,react,nextjs,nodejs,django,fastapi,postgres,mysql,sqlite,firebase,prisma,git,github,linux,vercel,vscode&perline=10" alt="Tech Stack"/>
-</p>
+<h4 align="center">Languages • Frameworks • Databases • Tools</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,react,nextjs,django,fastapi,mysql,firebase,git,github,vscode,vercel&perline=8" alt="Technology Stack"/>
 </p>
 
 ---
@@ -151,35 +146,36 @@ Web app for managing daily tasks, schedules, priorities, and personal workflows.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iAdityaSharma2912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdityaSharma2912&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    width="60%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSharma2912&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSharma2912&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iAdityaSharma2912&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iAdityaSharma2912/iAdityaSharma2912/output/github-snake-dark.svg" alt="Snake animation" width="95%"/>
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iAdityaSharma2912&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm exploring **Business Analyst**, **Data Analyst**, and **Technical Business Analyst** roles, and I love building useful software. If you're working on something interesting, reach out.
+I'm interested in building useful software, collaborating on ambitious projects, and exploring **Data Analyst** and **Full-Stack Developer** roles.
+
+If you're working on something interesting, feel free to connect with me.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iaddy29/">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iAdityaSharma2912&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
@@ -189,7 +185,6 @@ I'm exploring **Business Analyst**, **Data Analyst**, and **Technical Business A
   ⚡ Ideas are easy. Building is the hard part. Keep shipping.
 </h3>
 
-<!-- FOOTER: animated wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
+  ⭐ Explore my repositories and star the projects you find useful.
 </p>
